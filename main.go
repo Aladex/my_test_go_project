@@ -6,6 +6,6 @@ import (
 )
 
 func main() {
-	a := npack.SayMyName("Andrey")
+	a := npack.SayMyName("Aladex")
 	fmt.Println(a)
 }
